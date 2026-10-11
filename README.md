@@ -7,7 +7,7 @@ A robust C++ console utility designed to calculate a university student's semest
 - **Dynamic Calculation:** Automatically tracks and computes percentages, standard 4.0 scale letter grades, and total weighted GPA.
 - **Clean Results Output:** Formats your final transcript neatly inside the terminal window using structural padding.
 
-## 💻 How to Run
+## How to Run
 1. Clone this repository or copy the code from `main.cpp`.
 2. Compile the file using any standard C++ compiler (like GCC or Clang):
    ```bash
